@@ -1,2 +1,2 @@
 # Miniprojects
-Some  miniprojects that will help in revising the concept of javascript and css.
+Some mini projects that will help in revising the concept of HTML , javascript and CSS.
